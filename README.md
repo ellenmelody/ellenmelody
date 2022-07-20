@@ -1,7 +1,7 @@
 ### Ellen Melody - Mel 🍯 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-melody/)
-
+Email: mmelody.store@gmail.com
 
 ![ellenmelody GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenmelody&show_icons=true&theme=dracula)
 
